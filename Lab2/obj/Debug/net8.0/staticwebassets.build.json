@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RHa3P8xmte1E+34Ijp8KeX0HLLNn3n6PqkXU6AvyKFs=",
+  "Hash": "mHM87eIQxecCKGPdLJoNkeVh0BdHWHYp/J9Ywxsv1kI=",
   "Source": "Lab2",
   "BasePath": "_content/Lab2",
   "Mode": "Default",
@@ -1193,6 +1193,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Huu Nghia\\Desktop\\GAM106_GameBackEnd\\demo\\Lab2\\Lab2\\wwwroot\\uploads\\avatars\\0611f6a4-99a3-46ff-8151-b6ad12d0c552.docx",
+      "SourceId": "Lab2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Huu Nghia\\Desktop\\GAM106_GameBackEnd\\demo\\Lab2\\Lab2\\wwwroot\\",
+      "BasePath": "_content/Lab2",
+      "RelativePath": "uploads/avatars/0611f6a4-99a3-46ff-8151-b6ad12d0c552.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\avatars\\0611f6a4-99a3-46ff-8151-b6ad12d0c552.docx"
     }
   ]
 }

@@ -154,3 +154,5 @@ C:\Users\Huu Nghia\Desktop\GAM106_GameBackEnd\demo\Lab2\Lab2\bin\Debug\net8.0\Bo
 C:\Users\Huu Nghia\Desktop\GAM106_GameBackEnd\demo\Lab2\Lab2\bin\Debug\net8.0\MailKit.dll
 C:\Users\Huu Nghia\Desktop\GAM106_GameBackEnd\demo\Lab2\Lab2\bin\Debug\net8.0\MimeKit.dll
 C:\Users\Huu Nghia\Desktop\GAM106_GameBackEnd\demo\Lab2\Lab2\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Huu Nghia\Desktop\GAM106_GameBackEnd\demo\Lab2\Lab2\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Huu Nghia\Desktop\GAM106_GameBackEnd\demo\Lab2\Lab2\obj\Debug\net8.0\Lab2.sourcelink.json
